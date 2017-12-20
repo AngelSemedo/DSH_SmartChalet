@@ -1,0 +1,10 @@
+Ficheros entregados:
+
+1_dsh_smartchalet_blog.pdf - Entrada del blog impresa en PDF (última versión, 19/12/2017)
+2_dsh_smartchalet_presentacion.pdf - Diapositivas usadas en la presentación del proyecto
+3_dsh_smartchalet_fuentes.zip - Código fuente (.ino) y diagramas de conexión (.fzz y .PNG)
+	Nota: en la herramienta Fritzing no existe el elemento RCWL-0516 (radar presencia), 
+por lo que en su lugar se ha colocado un sensor de ultrasonidos. En la imagen se ha hecho
+un montaje con una imagen del radar usado en el prototipo.
+4_dsh_smartchalet.mp4 - Vídeo original (enlace al mismo en YouTube: https://youtu.be/lMwSR5vWrPg)
+5_leeme.txt - Índice y aclaraciones
